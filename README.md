@@ -26,4 +26,5 @@ This project is a web-based dashboard built using Python and Streamlit that visu
 
 **How to run code:**
 
+   Open terminal in vs code and run:
    streamlit run ./pro.py
