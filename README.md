@@ -5,9 +5,9 @@ This project is a web-based dashboard built using Python and Streamlit that visu
 
 **Data Visualization:**
 
-   Interactive charts displaying emissions by sector (e.g., transportation, agriculture, energy).
+       Interactive charts displaying emissions by sector (e.g., transportation, agriculture, energy).
    
-   Time series analysis to track changes in GHG emissions over the years.
+       Time series analysis to track changes in GHG emissions over the years.
    
 **User Input:**
 
