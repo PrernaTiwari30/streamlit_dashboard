@@ -2,6 +2,7 @@
 This project is a web-based dashboard built using Python and Streamlit that visualizes and analyzes greenhouse gas (GHG) emissions data. It aims to provide users with insights into emission trends, sources, and potential mitigation strategies.
 
 **Features**
+
 **Data Visualization:**
    Interactive charts displaying emissions by sector (e.g., transportation, agriculture, energy).
    Time series analysis to track changes in GHG emissions over the years.
