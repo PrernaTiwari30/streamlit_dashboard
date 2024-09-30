@@ -15,13 +15,13 @@ This project is a web-based dashboard built using Python and Streamlit that visu
    
 **Technical Stack**
 
-    **Python:** Core programming language for data processing and logic.
+    Python: Core programming language for data processing and logic.
 
-    **Streamlit:** Framework used to create the interactive dashboard.
+    Streamlit: Framework used to create the interactive dashboard.
    
-    **Pandas:** For data manipulation and analysis.
+    Pandas: For data manipulation and analysis.
    
-    **Matplotlib/Plotly:** Libraries for generating visualizations.
+    Matplotlib/Plotly: Libraries for generating visualizations.
    
 
 **How to run code:**
